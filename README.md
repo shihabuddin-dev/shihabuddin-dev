@@ -23,8 +23,8 @@
     <br />
     <p align="center" style="font-size: 16px; margin: 0;">
       <samp>
-        [ <a href="https://shihabuddin-dev.vercel.app/" target='blank' style="color: #00f5d4; text-decoration: none; font-weight: bold;">About me</a> •
-        <a href="https://shihabuddin-dev.vercel.app/" target='blank' style="color: #00f5d4; text-decoration: none; font-weight: bold;">projects</a> •
+        [ <a href="https://shihabuddin-repo.vercel.app/" target='blank' style="color: #00f5d4; text-decoration: none; font-weight: bold;">About me</a> •
+        <a href="https://shihabuddin-repo.vercel.app/" target='blank' style="color: #00f5d4; text-decoration: none; font-weight: bold;">projects</a> •
         <a href="https://www.linkedin.com/in/shihabuddinreal/" target='blank' style="color: #00f5d4; text-decoration: none; font-weight: bold;">contact</a> ]
       </samp>
     </p>
