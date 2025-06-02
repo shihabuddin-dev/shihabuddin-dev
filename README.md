@@ -1,24 +1,7 @@
 <div style="font-family: 'Iosevka', monospace; background: #0d1b2a; padding: 25px; border: 3px solid #00f5d4; border-radius: 15px; max-width: 800px; margin: 0 auto; color: #e0fbfc; box-shadow: 0 0 15px rgba(0, 245, 212, 0.3);">
-  <p align="center" style="font-size: 28px; color: #00f5d4; margin: 0;">
-    <strong><samp>「</samp></strong>
-  </p>
-
-  <p align="center" style="margin: 15px 0;">
 
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F73685&center=true&vCenter=true&width=435&lines=This+is+Shihab+Uddin;JavaScript+Developer;MERN+Stack+Developer;Frontent+Developer;React%2C+Node%2C+Express%2C+MongoDB)](https://git.io/typing-svg)
     
-<!--     <samp>
-      <b style="font-size: 38px; color: #e0fbfc; letter-spacing: 1px; text-shadow: 0 0 5px #7209b7;">Welcome</b>
-      <br />
-      This is <span style="color: #7209b7; font-weight: bold; font-size: 32px; background: rgba(114, 9, 183, 0.1); padding: 2px 8px; border-radius: 5px; box-shadow: 0 0 10px rgba(114, 9, 183, 0.5);">Shihab Uddin</span>, Junior Web Developer.
-      <br />
-    </samp> -->
-  </p>
-
-  <p align="right" style="font-size: 28px; color: #00f5d4; margin: 0;">
-    <strong><samp>」</samp></strong>
-  </p>
-
   <details align="left" style="margin-top: 25px; border: 2px solid #7209b7; border-radius: 10px; padding: 20px; background: #1b263b;">
     <summary style="cursor: pointer; font-size: 20px; color: #7209b7; font-weight: bold;">
       <samp><b>More Info ⌨️</b></samp>
