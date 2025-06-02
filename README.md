@@ -1,5 +1,5 @@
 <div style="font-family: 'Iosevka', monospace; background: #0d1b2a; padding: 25px; border: 3px solid #00f5d4; border-radius: 15px; max-width: 800px; margin: 0 auto; color: #e0fbfc; box-shadow: 0 0 15px rgba(0, 245, 212, 0.3);">
-  <p align="left" style="font-size: 28px; color: #00f5d4; margin: 0;">
+  <p align="center" style="font-size: 28px; color: #00f5d4; margin: 0;">
     <strong><samp>「</samp></strong>
   </p>
 
