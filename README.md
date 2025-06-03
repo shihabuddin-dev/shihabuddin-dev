@@ -1,6 +1,23 @@
 <div style="font-family: 'Iosevka', monospace; background: #0d1b2a; padding: 25px; border: 3px solid #00f5d4; border-radius: 15px; max-width: 800px; margin: 0 auto; color: #e0fbfc; box-shadow: 0 0 15px rgba(0, 245, 212, 0.3);">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F73685&center=true&vCenter=true&width=435&lines=This+is+Shihab+Uddin;JavaScript+Developer;MERN+Stack+Developer;Frontent+Developer;React%2C+Node%2C+Express%2C+MongoDB)](https://git.io/typing-svg)
+ <p align="left" style="font-size: 28px; color: #00f5d4; margin: 0;">
+    <strong><samp>「</samp></strong>
+  </p>
+
+  <p align="center" style="margin: 15px 0;">
+    <samp>
+      <b style="font-size: 32px; color: #e0fbfc; letter-spacing: 1px; text-shadow: 0 0 5px #7209b7;">Welcome</b>
+      <br />
+      <br />
+      <span style="color: #7209b7; font-weight: bold; font-size: 20px; background: rgba(114, 9, 183, 0.1); padding: 2px 8px; border-radius: 5px; box-shadow: 0 0 10px rgba(114, 9, 183, 0.5);">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72C94&width=435&lines=This+is+Shihab+Uddin;MERN+Stack+Developer" alt="Typing SVG" /></a>
+  </p>
+
+  <p align="right" style="font-size: 28px; color: #00f5d4; margin: 0;">
+    <strong><samp>」</samp></strong>
+  </p>
+
+
 
   <details align="left" style="margin-top: 25px; border: 2px solid #7209b7; border-radius: 10px; padding: 20px; background: #1b263b;">
     <summary style="cursor: pointer; font-size: 20px; color: #7209b7; font-weight: bold;">
