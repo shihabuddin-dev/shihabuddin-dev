@@ -1,8 +1,8 @@
 <!-- Banner Image -->
 <img src="https://i.postimg.cc/cLs8qvWh/banner.png" alt="Profile Banner" width="100%" />
 
-<h1 align="center">Hi, This is Shihab Uddin</h1>
-<h3 align="center">Frontend Engineer & JavaScript Enthusiast</h3>
+<h1 align="center">Hi!👋 I'm Shihab Uddin</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Contionus+Learner;Learning+Next.js+%26+TypeScript;JS+%26+React+Developer" alt="Typing SVG" /></a>
 
 ---
 
@@ -55,7 +55,7 @@ I’m a passionate Frontend Engineer from Bangladesh with a deep love for JavaSc
 
 <b>Top Repositories</b>
 
-<div width="90%" align="center"><a href="https://github.com/shihabuddin-dev/js-book" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shihabuddin-dev&repo=js-book&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/shihabuddin-dev/js-solved" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shihabuddin-dev&repo=js-solved&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/shihabuddin-dev/js-book" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shihabuddin-dev&repo=js-book&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/shihabuddin-dev/js-solved" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shihabuddin-dev&repo=js-solved&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
