@@ -11,8 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-
-I’m a MERN Stack developer from Bangladesh who loves building websites with JavaScript and modern tools like React, Tailwind CSS, Firebase, and Vite. I enjoy creating clean and user-friendly designs that work well on all devices. I’m always learning new things and love sharing helpful projects and coding resources with others.
+I’m a MERN Stack developer from Bangladesh with a passion for building modern, user-friendly websites. I work mainly with JavaScript and tools like React, Tailwind CSS, Firebase, and Vite to create clean, responsive web apps. I enjoy solving real-world problems through code, learning new technologies, and sharing useful projects and coding tips with others.
 
 ---
 
