@@ -11,7 +11,11 @@
 
 ## 🧑‍💻 About Me
 
-I’m a passionate Frontend Engineer from Bangladesh with a deep love for JavaScript and modern web technologies. I enjoy building interactive, user-friendly web applications and constantly learning new tools to improve my craft.
+Sure Shihab! Here's a simpler, unique, and easy-to-read summary for your GitHub or portfolio:
+
+---
+
+I’m a MERN Stack developer from Bangladesh who loves building websites with JavaScript and modern tools like React, Tailwind CSS, Firebase, and Vite. I enjoy creating clean and user-friendly designs that work well on all devices. I’m always learning new things and love sharing helpful projects and coding resources with others.
 
 ---
 
