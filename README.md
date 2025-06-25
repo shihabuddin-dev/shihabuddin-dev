@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://your-banner-image-link.com/banner.png" alt="Banner" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/shihabuddin-dev/assets/banner-dev-modern-blue.jpg" alt="Tech Banner" width="100%" />
 
 <h1 align="center">Hi, I'm Shihab Uddin</h1>
 <h3 align="center">Frontend Engineer & JavaScript Enthusiast</h3>
