@@ -1,7 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shihab Uddin
-====================================================================================================================================
+<!-- Banner Image -->
+<img src="https://cdn.jsdelivr.net/gh/shihabuddin-dev/assets/banner-dev-modern-blue.jpg" alt="Profile Banner" width="100%" />
+
+<h1 align="center">Hi, I'm Shihab Uddin</h1>
+<h3 align="center">Frontend Engineer & JavaScript Enthusiast</h3>
+
+---
+
+## 🧑‍💻 About Me
 
 I’m a passionate Frontend Engineer from Bangladesh with a deep love for JavaScript and modern web technologies. I enjoy building interactive, user-friendly web applications and constantly learning new tools to improve my craft.
+
+---
+
+## 🚀 Current Activities
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [shihabuddin.dev@gmail.com](mailto:shihabuddin.dev@gmail.com)
@@ -9,6 +20,8 @@ I’m a passionate Frontend Engineer from Bangladesh with a deep love for JavaSc
 * 🧠  I'm learning Next.js & TypeScript
 * 🤝  I'm open to collaborating on Next.js Projects
 * ⚡  I would appreciate any suggestions on how I can improve myself!
+
+---
 
 ### Skills
 
