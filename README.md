@@ -11,8 +11,6 @@
 
 ## 🧑‍💻 About Me
 
-Sure Shihab! Here's a simpler, unique, and easy-to-read summary for your GitHub or portfolio:
-
 ---
 
 I’m a MERN Stack developer from Bangladesh who loves building websites with JavaScript and modern tools like React, Tailwind CSS, Firebase, and Vite. I enjoy creating clean and user-friendly designs that work well on all devices. I’m always learning new things and love sharing helpful projects and coding resources with others.
