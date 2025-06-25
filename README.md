@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.postimg.cc/cLs8qvWh/banner.png" alt="Profile Banner" width="100%" />
+<img src="https://i.postimg.cc/43fqjkBq/banner.png" alt="Profile Banner" width="100%" />
 
 <h1 align="center">Hi!👋 I'm Shihab Uddin</h1>
 <p align="center">
