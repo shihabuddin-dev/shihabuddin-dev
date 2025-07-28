@@ -57,7 +57,7 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
 </p>
 
 
-<p align="center">
+<p align="center">  
 <a href="http://www.github.com/shihabuddin-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shihabuddin-dev&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
