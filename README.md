@@ -71,5 +71,5 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
 <div width="100%" align="center"><a href="https://github.com/shihabuddin-dev/js-book" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shihabuddin-dev&repo=js-book&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/shihabuddin-dev/js-solved" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shihabuddin-dev&repo=js-solved&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/shihab.dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<div style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/shihab.dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></div>
 
