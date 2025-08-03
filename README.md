@@ -6,7 +6,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Contionus+Learner;Learning+Next.js+%26+TypeScript;JS+%26+React+Developer" alt="Typing SVG" /></a>
 </p>
 
-
 ---
 
 ## 🧑‍💻 About Me
