@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi! I'm Shihab Uddin</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=E3405F&center=true&vCenter=true&width=430&lines=MERN+Stack+Developer;JavaScript+%26+React+Developer;Learning+TypeScript;Passionate+About+Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=E3405F&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;JavaScript+%26+React+Developer;Learning+TypeScript;Passionate+Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 ---
