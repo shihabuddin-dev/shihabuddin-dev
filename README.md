@@ -23,7 +23,7 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
 * 🧠  I'm learning Next.js & TypeScript
 * 🤝  I'm open to collaborating on Next.js Projects
 * ⚡  I would appreciate any suggestions on how I can improve myself!
-* 📞 Mobile / whatsapp: **+8801740520249**
+* 📞 Mobile/whatsapp: **+880 17405 20249**
 
 ---
 
