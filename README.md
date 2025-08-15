@@ -15,7 +15,7 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
 
 ---
 
-## 🚀 Current Activities
+## 🚀 Current Activities 
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [shihabuddin.dev@gmail.com](mailto:shihabuddin.dev@gmail.com)
