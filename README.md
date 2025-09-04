@@ -22,6 +22,7 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
 * 🧠  I'm learning Next.js & TypeScript
 * 🤝  I'm open to collaborating on Next.js Projects
 * ⚡  I would appreciate any suggestions on how I can improve myself!
+* 🌐 About Me [Portfolio](https://shihab-dev.web.app/)
 * 📞 Mobile/whatsapp: **+880 17405 20249**
 
 --- 
