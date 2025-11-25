@@ -1,7 +1,7 @@
  <!-- Banner Image -->
 <img src="https://i.postimg.cc/13NSC392/Banner.png" alt="Profile Banner" width="100%" />
 
-<h1 align="center">Hi! I'm Shihab Uddin</h1>
+<h1 align="center">Hi! I'm Shihab Uddin</h1> 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=E3405F&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;JavaScript+%26+React+Developer;Learning+TypeScript;Passionate+Full+Stack+Developer" alt="Typing SVG" /></a>
 </p> 
