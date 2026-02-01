@@ -10,8 +10,7 @@
   
 ## 🧑‍💻 About Me
 
-I’m a MERN Stack developer from Bangladesh with a passion for building modern, user friendly websites. I work mainly with JavaScript and tools like React, Next.js, Tailwind CSS, Firebase, and Vite to create clean, responsive web apps. I enjoy solving real world problems through code, learning new technologies, and sharing useful projects and coding tips with others.
-
+I’m a Full Stack Developer from Bangladesh, building modern, responsive web applications using JavaScript, TypeScript, Node.js, React, Next.js, and PostgreSQL. I enjoy turning ideas into real products, solving problems through code, and continuously learning new technologies. Currently, I’m contributing to projects at Olynex, creating scalable and user-friendly web apps.
 ---  
  
 ## 🚀 Current Activities 
