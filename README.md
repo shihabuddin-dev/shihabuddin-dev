@@ -34,104 +34,38 @@ src="https://img.shields.io/github/followers/shihabuddin-dev?logo=github&style=f
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></a>
-  <img width="12" />
-
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" /></a>
-  <img width="12" />
-
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /></a>
-  <img width="12" />
-
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" /></a>
-  <img width="12" />
-
   <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /></a>
-  <img width="12" />
-
   <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" /></a>
-  <img width="12" />
-
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" /></a>
-  <img width="12" />
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" /></a>
-  <img width="12" />
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" /></a>
-  <img width="12" />
-
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" /></a>
-  <img width="12" />
-
   <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" /></a>
-  <img width="12" />
-
   <a href="https://go.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" /></a>
-  <img width="12" />
-
   <a href="https://mui.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo" /></a>
-  <img width="12" />
-
   <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" /></a>
-  <img width="12" />
-
   <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo" /></a>
-  <img width="12" />
-
   <a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo" /></a>
-  <img width="12" />
-
   <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" /></a>
-  <img width="12" />
-
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /></a>
-  <img width="12" />
-
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" /></a>
-  <img width="12" />
-
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /></a>
-  <img width="12" />
-
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" /></a>
-  <img width="12" />
-
   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" /></a>
-  <img width="12" />
-
   <a href="https://www.prisma.io/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" /></a>
-  <img width="12" />
-
   <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" /></a>
-  <img width="12" />
-
   <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" /></a>
-  <img width="12" />
-
   <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" /></a>
-  <img width="12" />
-
   <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" /></a>
-  <img width="12" />
-
   <a href="https://www.notion.so/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" /></a>
-  <img width="12" />
-
   <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo" /></a>
-  <img width="12" />
-
   <a href="https://yarnpkg.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="40" alt="yarn logo" /></a>
-  <img width="12" />
-
   <a href="https://redis.io/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" /></a>
-  <img width="12" />
-
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" /></a>
-  <img width="12" />
-
   <a href="https://vitejs.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" /></a>
-  <img width="12" />
-
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" /></a>
 </p>
  
