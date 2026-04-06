@@ -44,7 +44,6 @@ src="https://img.shields.io/github/followers/shihabuddin-dev?logo=github&style=f
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" /></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" /></a>
-  <a href="https://go.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" /></a>
   <a href="https://mui.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo" /></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" /></a>
   <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo" /></a>
