@@ -101,7 +101,7 @@ src="https://img.shields.io/github/followers/shihabuddin-dev?logo=github&style=f
 
 ### Badges
 
-<b>My GitHub Stats</b> 
+<b>My GitHub Stats</b>
 
 <p align="center">
  <a href="http://www.github.com/shihabuddin-dev" align="center"><img src="https://github-readme-stats.vercel.app/api?username=shihabuddin-dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="shihabuddin-dev's GitHub stats" /></a>
