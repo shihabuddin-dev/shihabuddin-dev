@@ -4,7 +4,7 @@
 <h1 align="center">Hi! I'm Shihab Uddin </h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F731CF&center=true&width=435&lines=I+am+Shihab+Uddin;Full+Stack+Developer;Know+React+%2C+Next.js;Docker%2C+Cloudinary%2C+VPS;Passionate+Critical+Thinker+" alt="Typing SVG" /></a>
-</p> 
+</p>
  
 --- 
   
