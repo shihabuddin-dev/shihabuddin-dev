@@ -35,6 +35,7 @@ src="https://img.shields.io/github/followers/shihabuddin-dev?logo=github&style=f
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" /></a>
+   <a href="https://go.dev" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=go" height="40" alt="golang logo" /></a>
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" /></a>
   <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /></a>
