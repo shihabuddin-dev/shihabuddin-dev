@@ -20,7 +20,7 @@ I’m a Full Stack Developer from Bangladesh, building modern, responsive web ap
 * ✉️  You can contact me at [shihabuddin.dev@gmail.com](mailto:shihabuddin.dev@gmail.com)
 * 🚀  I'm currently working on [Full Stack Peoject](http://)
 * 🧠  I'm learning GO
-* 🤝  I'm open to collaborating on Next.js Projects
+* 🤝  I'm open to collaborating on Any Projects
 * ⚡  I would appreciate any suggestions on how I can improve myself!
 * 🌐 About Me [Portfolio](https://shihab-dev.web.app/)
 * 📞 Mobile/whatsapp: **+880 17405 20249**
