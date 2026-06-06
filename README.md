@@ -125,5 +125,3 @@ src="https://img.shields.io/github/followers/shihabuddin-dev?logo=github&style=f
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shihabuddin-dev/shihabuddin-dev/pacman-output/breakout-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shihabuddin-dev/shihabuddin-dev/pacman-output/breakout-contribution-graph.svg">
 </picture>
-
-
